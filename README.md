@@ -36,12 +36,8 @@ Do this when there are updates to pull from the upstream(parent) repository StRo
 * first you will need to add and upstream remote (you only need to do this once)
     * `git remote add upstream https://github.com/[Original Owner Username]/[Original Repository].git`
     * for example `git remote add upstream https://github.com/StRobertCHSCS/ICS4U1c-2018-19.git`
-* now any time you want to pull from the upstream remote:
-```text
-git fetch upstream
-git checkout master
-git merge upstream/master
-```
+* now any time you want to pull from the upstream remote: **`git pull upstream master`**
+
 
 ### Changing the git user name
 Before you make any changes when working on the school laptops (class chromebooks),  it's a good idea to check that you are the current git user.
