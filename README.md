@@ -24,6 +24,16 @@ git commit -m "type a short meaningful message in present tense about your chang
 git push origin master
 ```
 
+### Changing the git user name
+Before you make any changes when working on the school laptops (class chromebooks),  it's a good idea to check that you are the current git user.
+* To check the current git user: `git config user.name`
+* To change the current git user:
+```text
+git config user.name "your_git_username"
+git config user.email "your_git_account_email"
+
+```
+
 
 
 ### Pull changes from your fork on github down to a your local repository
