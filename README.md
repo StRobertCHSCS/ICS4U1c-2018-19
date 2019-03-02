@@ -50,9 +50,7 @@ git config user.email "your_git_account_email"
 
 ```
 
-
-
-
-
-
-
+### Settings Things Up at Home
+1) Install git and make necessary settings/preferences changes in Pycharm (see instructions posted in class)
+2) Follow the steps above starting from **2) Clone Your Fork**
+3) Day-to-day procedures are the same as above
