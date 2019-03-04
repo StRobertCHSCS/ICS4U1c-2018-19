@@ -3,6 +3,8 @@ Working repo for Grade 12 Computer Science - Spring 2019
 
 [Getting Things Set Up](https://github.com/StRobertCHSCS/ICS4U1c-2018-19#getting-things-set-up)  
 [Day to Day Procedures](https://github.com/StRobertCHSCS/ICS4U1c-2018-19#day-to-day-procedures)
+[Changing/Checking the Git User](https://github.com/StRobertCHSCS/ICS4U1c-2018-19#changing-the-git-user-name)
+[Settings Things Up at Home](https://github.com/StRobertCHSCS/ICS4U1c-2018-19#settings-things-up-at-home)
 
 
 ## Getting Things Set Up
