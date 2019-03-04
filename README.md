@@ -1,6 +1,12 @@
 # ICS4U1c-2018-19
 Working repo for Grade 12 Computer Science - Spring 2019
 
+https://github.com/StRobertCHSCS/ICS4U1c-2018-19#getting-things-set-up
+
+[Getting Things Set Up](https://github.com/StRobertCHSCS/ICS4U1c-2018-19#getting-things-set-up)
+[Day to Day Procedures](https://github.com/StRobertCHSCS/ICS4U1c-2018-19#day-to-day-procedures)
+
+
 ## Getting Things Set Up
 
 ### 1) Fork this repository
