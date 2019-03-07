@@ -48,7 +48,7 @@ def main():
         snow_list.append(new_snow)
 
     # Call on_draw every 60th of a second.
-    arcade.schedule(on_draw, 1 / 50)
+    arcade.schedule(on_draw, 1 / 60)
     arcade.run()
 
 
