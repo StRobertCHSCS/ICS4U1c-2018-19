@@ -1,6 +1,6 @@
 # practice_rectangle.py
 
-In your Working directory, create a python file called practice_address.py.
+In your Working directory, create a python file called practice_rectangle.py.
 
 1. Define a class Rectangle that has attributes `width` and `height` defaulted to 0.
 
