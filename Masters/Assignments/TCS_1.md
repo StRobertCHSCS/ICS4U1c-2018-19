@@ -1,4 +1,4 @@
-# Topics In Computer Science - Assignment: Ethical Practices
+# Topics In Computer Science Assignment: Ethical Practices
 
 ## Assignment Objectives
 * Think critically about an ethical issue related to the use of computers
@@ -21,8 +21,23 @@
 1. [Sign up with Flipboard.com and use the search tool to follow topics related to this course.](https://docs.google.com/document/d/1MFu7yAbYy8OmR93q37JYm04KME2b08t1d4mdv1arABc/edit?usp=sharing)
 2.  With your partner, choose an article about an ethical issue related to computer use. 
 3.  Review the [Question Matrix](https://docs.google.com/document/d/1IBS6K4Cm7RwTHj8i8N5U2xiw0vzR-ZumWUwFyea8Pqw/edit?usp=sharing)
-4.  Each member will:
-    * Devise a level 1-2 question (see [Question Matrix]([Question Matrix](https://docs.google.com/document/d/1IBS6K4Cm7RwTHj8i8N5U2xiw0vzR-ZumWUwFyea8Pqw/edit?usp=sharing))) related to the article.  Answer the question in 250 words in the `EthicalPractices.md` file (on their own development branch)
-    * Devise a level 3-4 question (see [Question Matrix]([Question Matrix](https://docs.google.com/document/d/1IBS6K4Cm7RwTHj8i8N5U2xiw0vzR-ZumWUwFyea8Pqw/edit?usp=sharing))) related to the article.  Answer the question in 250 words in the `EthicalPractices.md` file (on their own development branch)
+4.  Members will work to edit the `EthicalPractices.md`
+    * Add an active link to the article
+    * Provide a 150 word summary of the article
+    * Each member will:
+        * Create a level 1-2 question (see [Question Matrix]([Question Matrix](https://docs.google.com/document/d/1IBS6K4Cm7RwTHj8i8N5U2xiw0vzR-ZumWUwFyea8Pqw/edit?usp=sharing))) related to the article.  Answer the question in 250 words in the `EthicalPractices.md` file (on their own development branch)
+        * Create a level 3-4 question (see [Question Matrix]([Question Matrix](https://docs.google.com/document/d/1IBS6K4Cm7RwTHj8i8N5U2xiw0vzR-ZumWUwFyea8Pqw/edit?usp=sharing))) related to the article.  Answer the question in 250 words in the `EthicalPractices.md` file (on their own development branch)
+    * It is expected that members will investigate beyond the article to help answer their questions. *Additional resources must be cited in a works cited section*.
+5. Create a *Works Cited* section with [active links](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) to all resources used.
+
+## Formatting
+* You must use markdown to format your document into the following sub-headers
+    * Article Title & Link
+    * Article Summary
+    * Level 1-2 Questions
+    * Level 3-4 Questions
+    * Works
+* All urls must be in the form of an active link 
+    
 
 
