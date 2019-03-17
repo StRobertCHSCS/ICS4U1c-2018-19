@@ -36,7 +36,7 @@
     * Article Summary
     * Level 1-2 Questions
     * Level 3-4 Questions
-    * Works
+    * Works Cited
 * All urls must be in the form of an active link 
     
 
