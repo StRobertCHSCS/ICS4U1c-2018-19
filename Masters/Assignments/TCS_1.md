@@ -13,9 +13,9 @@
 2. Click on the Assignment link given in Google Classroom and form a team.  Your partner should click on the assignment link and choose the appropriate team.
 3. [Follow the instructions to set up your own development branch](https://docs.google.com/document/d/13Cnu1upwq9jEQAYkB_rlxpZDf8mx0BFITs_0BfChNhA/edit#bookmark=id.lbl6lcmtaild) of the assignment.
 4. For this assignment, each member will use [markdown language](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to edit and properly format the **EthicalPractices.md** file in Pycharm to complete the assignment.
-5. It is expected that each member will log a commit for every paragraph written or after each editing session(which ever is more often).
+5. It is expected that each member will log a *commit for every paragraph written or after each editing session*(which ever is more often).
 6. Edits are to be done in Pycharm and pushed to github.
-7. Edits are only to be done in the member's development branch.  Final work is to be merged into the master branch. 
+7. Edits are only to be done in the member's development branch.  Final work is to be [merged into the master branch](https://docs.google.com/document/d/13Cnu1upwq9jEQAYkB_rlxpZDf8mx0BFITs_0BfChNhA/edit#bookmark=id.gftzstfb5iw4). 
 
 ## Instructions
 1. [Sign up with Flipboard.com and use the search tool to follow topics related to this course.](https://docs.google.com/document/d/1MFu7yAbYy8OmR93q37JYm04KME2b08t1d4mdv1arABc/edit?usp=sharing)
