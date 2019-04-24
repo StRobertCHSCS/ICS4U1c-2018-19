@@ -89,7 +89,7 @@ def main():
     arcade.set_background_color(arcade.color.WHITE)
 
     # Tell the computer to call the draw command at the specified interval.
-    arcade.schedule(on_draw, 1 / 80)
+    arcade.schedule(on_draw, 1 / 50)
 
     # Run the program
     arcade.run()

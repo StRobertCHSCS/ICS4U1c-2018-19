@@ -10,10 +10,10 @@ class Rectangle(object):
     """
 
     def __init__(self):
-        '''
+        """
         Initialize the rectangle dimensions
         :return: None
-        '''
+        """
         self.width = 0
         self.height = 0
 ```

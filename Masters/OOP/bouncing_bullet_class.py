@@ -20,20 +20,20 @@ RECT_HEIGHT = 50
 class Ball(object):
 
     def __init__(self, start_x, start_y, spd, rad, arcade_colour):
-        '''
+        """
 
         :param start_x: the starting x location
         :param start_y: the starting y location
         :param spd: speed of the ball
         :param rad: radius
         :param arcade_colour: colour of the ball
-        '''
+        """
 
         self.x = start_x
         self.y = start_y
         self.speed = spd
-        self.direction_x = 1
-        self.direction_y = 1
+        self.direction_x = 3
+        self.direction_y = 2
         self.radius = rad
         self.colour = arcade_colour
 
@@ -71,7 +71,7 @@ def on_draw(delta_time):
     ball.move()
 
 
-ball = Ball(SCREEN_WIDTH//4,SCREEN_HEIGHT//3,5,50,arcade.color.PURPLE_HEART)
+ball = Ball(SCREEN_WIDTH//4, SCREEN_HEIGHT//3, 2, 50, arcade.color.PURPLE_HEART)
 
 
 def main():
@@ -80,7 +80,7 @@ def main():
     arcade.set_background_color(arcade.color.WHITE)
 
     # Tell the computer to call the draw command at the specified interval.
-    arcade.schedule(on_draw, 1 / 60)
+    arcade.schedule(on_draw, 1/60)
 
     # Run the program
     arcade.run()
